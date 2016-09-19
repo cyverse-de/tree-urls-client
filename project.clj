@@ -1,6 +1,8 @@
 (defproject org.cyverse/tree-urls-client "2.8.1-SNAPSHOT"
   :description "Client for the tree-urls service"
   :url "https://github.com/cyverse-de/tree-urls-client"
+  :license {:name "BSD Standard License"
+            :url "http://www.iplantcollaborative.org/sites/default/files/iPLANT-LICENSE.txt"}
   :deploy-repositories [["releases" :clojars]
                         ["snapshots" :clojars]]
   :dependencies [[org.clojure/clojure "1.8.0"]
