@@ -1,4 +1,4 @@
-(defproject org.cyverse/tree-urls-client "2.8.1-SNAPSHOT"
+(defproject org.cyverse/tree-urls-client "2.8.1"
   :description "Client for the tree-urls service"
   :url "https://github.com/cyverse-de/tree-urls-client"
   :license {:name "BSD Standard License"
